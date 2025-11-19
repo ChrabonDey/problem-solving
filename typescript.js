@@ -1,0 +1,2 @@
+message.toLowerCase();
+message();
